@@ -45,4 +45,4 @@ def main():
             return lj_dis
 if __name__ =="__main__":
     main()
-    print "两组时间序列的相似度为：{}".format(main())
+    print "两组时间序列相似度为：{}".format(main())
